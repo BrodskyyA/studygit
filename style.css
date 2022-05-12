@@ -1,3 +1,6 @@
 a {
     background-color: aqua;
 }
+function work() {
+alert('hello world')
+}
